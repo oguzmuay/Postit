@@ -1,0 +1,28 @@
+.main-block {
+  border-radius: 5px;
+  min-height: 24px;
+  height: fit-content;
+  margin-bottom: 10px; }
+
+.tag-block {
+  max-height: 25px;
+  padding-top: 5px;
+  display: flex;
+  overflow: hidden;
+  margin-left: 5%; }
+
+.description-block {
+  min-height: 24px;
+  line-height: 20px;
+  display: -webkit-box !important;
+  -webkit-line-clamp: 20;
+  -webkit-box-orient: vertical;
+  white-space: normal;
+  overflow: hidden;
+  font-size: 20px;
+  margin-left: 5%; }
+
+.indicator-block {
+  margin-left: 5%; }
+
+/*# sourceMappingURL=ContentBlock.css.map */

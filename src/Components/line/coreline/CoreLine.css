@@ -1,0 +1,21 @@
+.line {
+  min-width: 100%;
+  width: inherit;
+  display: flex;
+  max-height: fit-content;
+  min-height: 350px;
+  background-color: transparent;
+  overflow-x: auto; }
+
+.card-add-button {
+  width: 350px;
+  height: 150px;
+  background-color: #D3D3D3;
+  margin: 50px 24px 50px 12px;
+  border-radius: 5px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 60px;
+  line-height: 150px; }
+
+/*# sourceMappingURL=CoreLine.css.map */

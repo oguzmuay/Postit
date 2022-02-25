@@ -1,0 +1,11 @@
+.navbar {
+  position: sticky;
+  background: lightblue;
+  height: 50px;
+  width: 100%;
+  top: 0;
+  z-index: 0;
+  font-size: 40px;
+  text-align: center; }
+
+/*# sourceMappingURL=Navbar.css.map */

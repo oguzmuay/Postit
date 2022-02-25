@@ -1,0 +1,32 @@
+.main-block
+    border-radius: 5px
+    min-height: 24px 
+    height: fit-content
+    margin-bottom: 10px
+
+.tag-block
+    max-height: 25px
+    padding-top: 5px
+    display: flex
+    overflow: hidden
+    margin-left: 5%
+
+.description-block
+    min-height: 24px
+    //white-space: nowrap
+    // Yukseklik max height olana kadar degisicek max height olunca yazilar ... kalicak
+    // Yukeseklik max height olarak degilde satir sayisina gore eklendi
+    text-overflow:ellipsis
+    line-height: 20px
+    display: -webkit-box !important
+    -webkit-line-clamp: 20     // Addition lines for 2 line or multiline ellipsis
+    -webkit-box-orient: vertical
+    white-space: normal
+    overflow: hidden 
+    //max-height: 200px
+    font-size: 20px
+    margin-left: 5%
+
+.indicator-block
+    margin-left: 5%
+    

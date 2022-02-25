@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI;EACA,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,UAAU,EAAE,GAAG;EACf,aAAa,EAAE,IAAI;EACnB,YAAY,EAAE,IAAI",
+"sources": ["Tag.sass"],
+"names": [],
+"file": "Tag.css"
+}
